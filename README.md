@@ -3,4 +3,4 @@
 > This will contain all the code that will be used on competetion day
 
 # TrialCode
-> This includes out proprietary maze solving algorthim
+> This includes our proprietary maze solving algorthim
